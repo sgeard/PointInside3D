@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="172c0837-fc51-405d-bee0-93e750cdbac4" kpf_version="5" name="PointInside3D.komodoproject">
+<preference-set idref="172c0837-fc51-405d-bee0-93e750cdbac4" id="project" preftype="project">
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.o;.svn;*.mod;*%25*;tmp*.html;.DS_Store;*.swp;*.kpf;*.komodoproject;.komodotools</string>
+  <string id="import_include_matches"></string>
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>

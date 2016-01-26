@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LASProc", "LASProc\LASProc.vcxproj", "{87CF1549-6DD3-4B6C-B067-52D3879FFDED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeoProc", "GeoProc\GeoProc.vcxproj", "{E3B37508-E62A-470E-B45D-69C7606BB745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CF1549-6DD3-4B6C-B067-52D3879FFDED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87CF1549-6DD3-4B6C-B067-52D3879FFDED}.Debug|Win32.Build.0 = Debug|Win32
+		{87CF1549-6DD3-4B6C-B067-52D3879FFDED}.Release|Win32.ActiveCfg = Release|Win32
+		{87CF1549-6DD3-4B6C-B067-52D3879FFDED}.Release|Win32.Build.0 = Release|Win32
+		{E3B37508-E62A-470E-B45D-69C7606BB745}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3B37508-E62A-470E-B45D-69C7606BB745}.Debug|Win32.Build.0 = Debug|Win32
+		{E3B37508-E62A-470E-B45D-69C7606BB745}.Release|Win32.ActiveCfg = Release|Win32
+		{E3B37508-E62A-470E-B45D-69C7606BB745}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
