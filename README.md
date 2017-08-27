@@ -13,6 +13,6 @@ The code was built and tested with the Intel 16.0.1 compiler on 64-bit Linux (Ma
 The main variations are as follows:
 
 1) the centroid of the polyhedron is used to ensure that the normals to the triangular faces are outward;
-2) the output is written with gnoplot in mind since there isn't a Linux version of the original viewer.
+2) the output is written with gnuplot in mind since there isn't a Linux version of the original viewer.
 
 
